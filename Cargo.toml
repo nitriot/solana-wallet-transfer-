@@ -1,0 +1,10 @@
+[package]
+name = "solana-wallet-transfer"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+solana-sdk = "1.18.13"
+solana-client = "1.18.13"
+dotenv = "0.15.0"
+
