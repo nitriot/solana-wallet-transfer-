@@ -4,7 +4,7 @@ A lightweight CLI tool written in **Rust** to transfer native **SOL** between wa
 
 No Anchor. No frontend. Just **raw power + CLI flow**. Ideal for automation, testing, or wallet scripting.
 
-![tx-preview](https://ibb.co/B5F4B6mR)
+![tx-preview](./tx-preview.png)
 
 ---
 
@@ -67,7 +67,7 @@ Enter amount in SOL: 0.1
 
 ##  Screenshot
 
-![tx-preview](https://ibb.co/B5F4B6mR)
+![tx-preview](./tx-preview.png)
 
 ---
 
