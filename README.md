@@ -96,7 +96,7 @@ We use `confirmed` to strike the best balance between speed and trust.
 Need help or building something on Solana?
 
 -  **Support Contact**:  
-  Message me anytime → [@virualsolana](https://t.me/virualsolana)
+  Message me anytime → [@virualsolana](https://t.me/virtualsolana)
 
 ---
 
@@ -107,5 +107,5 @@ Built for the Solana devs, degens, and legends.
 
 ---
 
-> Made with ❤️ by [@virualsolana](https://t.me/virualsolana)  
+> Made with ❤️ by [@virualsolana](https://t.me/virtualsolana)  
 > The chain never sleeps. Neither do we. ⛓️🔥
