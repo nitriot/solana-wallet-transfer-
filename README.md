@@ -23,7 +23,7 @@ A lightweight CLI tool written in **Rust** to transfer native **SOL** between wa
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/solana-wallet-transfer.git
+git clone https://github.com/nitriot/solana-wallet-transfer.git
 cd solana-wallet-transfer
 ```
 
@@ -96,7 +96,7 @@ We use `confirmed` to strike the best balance between speed and trust.
 Need help or building something on Solana?
 
 -  **Support Contact**:  
-  Message me anytime → [@virualsolana](https://t.me/virtualsolana)
+  Message me anytime → [@virtualsolana](https://t.me/virtualsolana)
 
 ---
 
@@ -107,5 +107,5 @@ Built for the Solana devs, degens, and legends.
 
 ---
 
-> Made with ❤️ by [@virualsolana](https://t.me/virtualsolana)  
+> Made with ❤️ by [@virtualsolana](https://t.me/virtualsolana)  
 > The chain never sleeps. Neither do we. ⛓️🔥
