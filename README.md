@@ -2,7 +2,6 @@
 
 A lightweight CLI tool written in **Rust** to transfer native **SOL** between wallets on the **Solana blockchain** — interactively, securely, and fast.
 
-No Anchor. No frontend. Just **raw power + CLI flow**. Ideal for automation, testing, or wallet scripting.
 
 ![tx-preview](./tx-preview.png)
 
